@@ -1,0 +1,30 @@
+# Android Studio / IntelliJ
+*.iml
+.gradle
+.idea/
+local.properties
+
+# Builds
+/build/
+/*/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Keystore (segurança)
+*.keystore
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Logs e saída
+*.log
+out/
+
+# Gradle
+gradle-wrapper.jar
+
+# Dumps de memória
+*.hprof
+
