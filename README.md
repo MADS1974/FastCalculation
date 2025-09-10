@@ -57,37 +57,36 @@ FastCalculation/
 
 ### Tela Inicial (Emulando via Nexus 4 - api 23)
 
-<img src="file:///C:/Users/deeja/Desktop/FastCalculation/screenshots/xtela%201.png" title="" alt="Tela Inicial 1-2" data-align="inline">
+![Tela 1](screenshots/xtela%201.png)
 
 ### Tela 2 (Welcome)
 
-![Tela 2](file:///C:/Users/deeja/Desktop/FastCalculation/screenshots/xtela%202.png)
+![Tela 2](screenshots/xtela%202.png)
 
 ### Tela 3 (Jogando)
 
-![Tela 3 jogando](file:///C:/Users/deeja/Desktop/FastCalculation/screenshots/xtela%203.png)
+![Tela 3 jogando](screenshots/xtela%203.png)
 
 ### Tela 4 (Resultado)
 
-![Tela 4 (Resultado)](file:///C:/Users/deeja/Desktop/FastCalculation/screenshots/xtela%204.png)
+![Tela 4 (Resultado)](screenshots/xtela%204.png)
 
 ### Tela 5 (Restart e Exit)
 
-![Tela 5 (Restart e Exit)](file:///C:/Users/deeja/Desktop/FastCalculation/screenshots/xtela%205.png)
-
+![Tela 5 (Restart e Exit)](screenshots/xtela%205.png)
 
 
 ### Projeto emulando via dispositivo móvel
 
-![via celular](file:///C:/Users/deeja/Desktop/FastCalculation/screenshots/xcelular%20tela%200.png)
+![via celular](screenshots/xcelular%20tela%200.png)
 
 ### Tela celular 1-2
 
-![Tela celular 1](file:///C:/Users/deeja/Desktop/FastCalculation/screenshots/xcelular%20tela%201-2.png)
+![Tela celular 1](screenshots/xcelular%20tela%201-2.png)
 
 ### Tela celular 3-4-5
 
-![Tela celular 3-4-5](file:///C:/Users/deeja/Desktop/FastCalculation/screenshots/xcelular%20tela%203-4-5.png)
+![Tela celular 3-4-5](screenshots/xcelular%20tela%203-4-5.png)
 
 ---
 
@@ -111,7 +110,7 @@ Conforme o PDF da disciplina, as seguintes modificações devem ser realizadas:
 1. Clone este repositório:
    
    ```bash
-   git clone https://github.com/seu-usuario/fastcalculation.git
+   git clone https://github.com/MADS1974/FastCalculation
    ```
 
 2. Abra no **Android Studio**.  
@@ -129,4 +128,13 @@ Também há um vídeo mostrando o funcionamento do app:
 
 ## 📚 Créditos
 
-Projeto acadêmico desenvolvido para a disciplina **Desenvolvimento para Android 1 – D1DA1**, ministrada pelo professor **Pedro Northon Nobile (IFSP)**.  
+Projeto acadêmico desenvolvido para a disciplina **Desenvolvimento para Android 1 – D1DA1**, ministrada pelo professor **Pedro Northon Nobile (IFSP)**. 
+
+---
+
+## 🙋‍♂️ 
+
+🔗 Conecte-se comigo
+
+[LinkedIn - Márcio Adriano](https://www.linkedin.com/in/mads1974/)
+
